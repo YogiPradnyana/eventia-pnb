@@ -40,4 +40,4 @@ Follow these steps to run this project on your local computer:
   	define('DB_NAME', 'eventia-pnb');
 11.	Run the Project 
 
-   	Access your project through your browser: http://localhost/nama-project/
+   	Access your project through your browser: http://localhost/eventia-pnb/public
